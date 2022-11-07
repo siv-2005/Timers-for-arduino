@@ -1,0 +1,12 @@
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+TimersClk	KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+startTimers	KEYWORD2
+mstime	KEYWORD2
+ustime	KEYWORD2
