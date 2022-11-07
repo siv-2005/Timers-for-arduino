@@ -1,3 +1,5 @@
+First of all, you need to copy the TimersClk folder in your arduino libraries folder
+
   This library can be used to easily make time events
 
   Functions:
