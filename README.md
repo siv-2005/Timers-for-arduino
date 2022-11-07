@@ -6,10 +6,8 @@ First of all, you need to copy the TimersClk folder in your arduino libraries fo
 
   Functions:
   
-startTimers();
+startTimers(); //it should be called in the loop for starting the timers
 
-  It Should be called in the loop for starting the timers
-  
   For variables we have:
   
 mstime => it makes an increment by 1 each milisecond (1s = 1.000 ms)
